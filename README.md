@@ -6,9 +6,9 @@ This repository contains a public product introduction only. It does not contain
 
 ## Current status
 
-A browse-only Cloudflare preview is available at [the preview website](https://outstanding-tiny-desk-ai.539965687.workers.dev). The planned custom domain above is not connected. Sign-in, server uploads, purchases, and generation are disabled in this preview; the new site has not completed production integration testing.
+A functional Cloudflare preview is available at [the preview website](https://outstanding-tiny-desk-ai.539965687.workers.dev). The planned custom domain above is not connected. Google sign-in, private uploads, generation, and checkout integrations are enabled, with an independent database and private media storage. Configuration and no-charge checks have passed; real paid generation and payment acceptance have not been tested for this new site.
 
-## Planned experience
+## Workflow
 
 - Upload one authorized photo for the lead vocalist.
 - Add a second authorized photo to cast the saxophone player.
@@ -19,7 +19,7 @@ The implementation reuses the existing operator's desk-concert workflow. Outcome
 
 ## Before uploading
 
-Use photos you own or have permission to use. Review the website's pricing, privacy information, and service terms when it launches. This is an independent AI tool, not an official NPR or Tiny Desk service.
+Use photos you own or have permission to use. Review the website's pricing, privacy information, and service terms before using it. This is an independent AI tool, not an official NPR or Tiny Desk service.
 
 ## Repository scope
 
