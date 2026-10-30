@@ -6,7 +6,7 @@ This repository contains a public product introduction only. It does not contain
 
 ## Current status
 
-A functional Cloudflare preview is available at [the preview website](https://outstanding-tiny-desk-ai.539965687.workers.dev). The planned custom domain above is not connected. Google sign-in, private uploads, generation, and checkout integrations are enabled, with an independent database and private media storage. Configuration and no-charge checks have passed; real paid generation and payment acceptance have not been tested for this new site.
+The website is live at [outstandingtinydesk-ai.com](https://outstandingtinydesk-ai.com). The Cloudflare default address remains available as a noindex fallback. Google sign-in, private uploads, generation, and checkout integrations are enabled, with an independent database and private media storage. Configuration and no-charge checks have passed; real paid generation and payment acceptance have not been tested for this new site.
 
 ## Workflow
 
