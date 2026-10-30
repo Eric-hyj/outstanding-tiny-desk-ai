@@ -6,7 +6,7 @@ This repository contains a public product introduction only. It does not contain
 
 ## Current status
 
-The application is being prepared locally. The website has not been deployed, and the new domain's login, payments, and video generation have not been verified in production.
+A browse-only Cloudflare preview is available at [the preview website](https://outstanding-tiny-desk-ai.539965687.workers.dev). The planned custom domain above is not connected. Sign-in, server uploads, purchases, and generation are disabled in this preview; the new site has not completed production integration testing.
 
 ## Planned experience
 
